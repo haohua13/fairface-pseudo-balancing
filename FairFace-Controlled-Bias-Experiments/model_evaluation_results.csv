@@ -1,0 +1,13 @@
+Model,Dataset,Loss,Accuracy,Male Accuracy,Female Accuracy
+../classification_model.pth,East_Asian_Validation,0.48126883241438095,"tensor(77.9355, device='cuda:0')",85.97168597168597,69.85769728331177
+../classification_model.pth,Balanced_Validation,0.5048191938243352,"tensor(76.4032, device='cuda:0')",86.6386925795053,64.62515883100382
+../classification_model.pth,Balanced_Test,0.6715495482016289,"tensor(73.2766, device='cuda:0')",97.93977812995246,48.61331220285262
+../5epoch_fairface.pth,East_Asian_Validation,0.17882797019976762,"tensor(93.4194, device='cuda:0')",93.17889317889318,93.66106080206987
+../5epoch_fairface.pth,Balanced_Validation,0.1771151239216824,"tensor(92.7094, device='cuda:0')",93.59540636042402,91.6899618805591
+../5epoch_fairface.pth,Balanced_Test,0.32023348924947426,"tensor(87.5396, device='cuda:0')",95.36450079239303,79.7147385103011
+../5epoch_fairface_5epoch_mixed.pth,East_Asian_Validation,0.3191225956332299,"tensor(87.4194, device='cuda:0')",84.42728442728443,90.42690815006468
+../5epoch_fairface_5epoch_mixed.pth,Balanced_Validation,0.3348842514585296,"tensor(87.4867, device='cuda:0')",87.96378091872792,86.93773824650572
+../5epoch_fairface_5epoch_mixed.pth,Balanced_Test,0.1530144672159638,"tensor(96.2163, device='cuda:0')",96.19651347068145,96.23613312202852
+../5epoch_mixed.pth,East_Asian_Validation,0.5732925808814264,"tensor(77.4839, device='cuda:0')",77.73487773487774,77.23156532988357
+../5epoch_mixed.pth,Balanced_Validation,0.6198297186930608,"tensor(76.9940, device='cuda:0')",82.99469964664311,70.0889453621347
+../5epoch_mixed.pth,Balanced_Test,0.15497399821066446,"tensor(95.1664, device='cuda:0')",93.93819334389858,96.3946117274168

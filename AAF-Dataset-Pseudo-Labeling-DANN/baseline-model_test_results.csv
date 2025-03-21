@@ -1,0 +1,2 @@
+Loss,Accuracy,Male Accuracy,Female Accuracy
+0.5048191932045538,"tensor(76.4032, device='cuda:0')",86.6386925795053,64.62515883100382

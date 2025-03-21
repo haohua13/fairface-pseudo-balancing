@@ -1,0 +1,26 @@
+,0
+Run,4.5
+All Wrong,92.4
+All Correct,774.4
+All Wrong Male,14.6
+All Wrong Female,77.8
+All Correct Male,398.3
+All Correct Female,376.1
+Disagreements balanced_06_fixmatch_iteration_3,484.0
+Disagreements balanced_06_fixmatch_iteration_3 Male,115.0
+Disagreements balanced_06_fixmatch_iteration_3 Female,369.0
+Disagreements balanced_09_fixmatch_iteration_7_lowest_disparity,497.0
+Disagreements balanced_09_fixmatch_iteration_7_lowest_disparity Male,227.0
+Disagreements balanced_09_fixmatch_iteration_7_lowest_disparity Female,270.0
+Disagreements balanced_09_fixmatch_iteration_12,471.0
+Disagreements balanced_09_fixmatch_iteration_12 Male,114.0
+Disagreements balanced_09_fixmatch_iteration_12 Female,357.0
+Disagreements balanced_06_flexmatch_iteration_4,499.0
+Disagreements balanced_06_flexmatch_iteration_4 Male,57.0
+Disagreements balanced_06_flexmatch_iteration_4 Female,442.0
+Disagreements balanced_06_flexmatch_iteration_6_lowest_disparity,538.0
+Disagreements balanced_06_flexmatch_iteration_6_lowest_disparity Male,108.0
+Disagreements balanced_06_flexmatch_iteration_6_lowest_disparity Female,430.0
+Disagreements unbalanced_09_fixmatch_iteration_3,592.0
+Disagreements unbalanced_09_fixmatch_iteration_3 Male,59.0
+Disagreements unbalanced_09_fixmatch_iteration_3 Female,533.0

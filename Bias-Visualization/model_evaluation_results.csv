@@ -1,0 +1,11 @@
+Run,All Wrong,All Correct,All Wrong Male,All Wrong Female,All Correct Male,All Correct Female,Disagreements balanced_06_fixmatch_iteration_3,Disagreements balanced_06_fixmatch_iteration_3 Male,Disagreements balanced_06_fixmatch_iteration_3 Female,Disagreements balanced_09_fixmatch_iteration_7_lowest_disparity,Disagreements balanced_09_fixmatch_iteration_7_lowest_disparity Male,Disagreements balanced_09_fixmatch_iteration_7_lowest_disparity Female,Disagreements balanced_09_fixmatch_iteration_12,Disagreements balanced_09_fixmatch_iteration_12 Male,Disagreements balanced_09_fixmatch_iteration_12 Female,Disagreements balanced_06_flexmatch_iteration_4,Disagreements balanced_06_flexmatch_iteration_4 Male,Disagreements balanced_06_flexmatch_iteration_4 Female,Disagreements balanced_06_flexmatch_iteration_6_lowest_disparity,Disagreements balanced_06_flexmatch_iteration_6_lowest_disparity Male,Disagreements balanced_06_flexmatch_iteration_6_lowest_disparity Female,Disagreements unbalanced_09_fixmatch_iteration_3,Disagreements unbalanced_09_fixmatch_iteration_3 Male,Disagreements unbalanced_09_fixmatch_iteration_3 Female
+0,82,781,17,65,413,368,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+1,84,757,12,72,392,365,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+2,95,771,17,78,393,378,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+3,97,818,15,82,420,398,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+4,93,769,17,76,398,371,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+5,86,746,12,74,384,362,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+6,102,753,14,88,384,369,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+7,106,787,13,93,397,390,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+8,94,778,19,75,399,379,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
+9,85,784,10,75,403,381,484,115,369,497,227,270,471,114,357,499,57,442,538,108,430,592,59,533
