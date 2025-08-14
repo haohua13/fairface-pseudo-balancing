@@ -14,3 +14,5 @@ Contains the scripts for DANN, CoRaL and Maximum Mean Discrepancy Loss.
 
 Bias-Visualization
 Contains some simple visual scripts for model analysis.
+
+Paper accepted at ICCV 2nd FAILED Workshop 2025
