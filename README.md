@@ -41,7 +41,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{dong2025:hal-05210445,
   TITLE = {{Fairness Without Labels: Pseudo-Balancing for Bias Mitigation in Face Gender Classification}},
-  AUTHOR = {Dong, Haohua and Manzano Rodr{\'i}guez, Ana and Guinaudeau, Camille and Satoh, Shin'Ichi},
+  AUTHOR = {Dong, Haohua and Manzano Rodr{\'i}guez, Ana and Guinaudeau, Camille and Satoh, Shin'ichi},
   URL = {https://hal.science/hal-05210445},
   BOOKTITLE = {{Second workshop on Fairness and ethics towards transparent AI: facing the chalLEnge through model Debiasing (FAILED) at the 2025 International Conference on Computer Vision}},
   YEAR = {2025}
