@@ -18,7 +18,7 @@ We conduct comprehensive experiments using:
   <img src="https://github.com/user-attachments/assets/cddab897-482d-40c3-a6af-84294743948b" alt="fair-face-dataset" width="20%"/>
 </div>
 
-We use a ResNet18-based CNN, pre-trained on the [Kaggle gender classification dataset](https://github.com/ndb796/Face-Gender-Classification-PyTorch). The pretrained models are found in classification_model.pth (
+We use a ResNet18-based CNN, pre-trained on the [Kaggle gender classification dataset](https://github.com/ndb796/Face-Gender-Classification-PyTorch). The pretrained model's weights are found in classification_model.pth
 
 ---
 
