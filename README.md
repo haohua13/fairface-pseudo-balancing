@@ -36,8 +36,7 @@ Visualization scripts for model performance analysis and bias exploration.
 ---
 
 ## Poster
-[ICCV25-Poster](https://github.com/user-attachments/files/22970316/ICCV25-FAILED-3-Poster-02-10-2025.pdf)
-
+[📄 View ICCV25 Poster (PDF)](https://github.com/user-attachments/files/22970352/ICCV25-FAILED-3-Poster-02-10-2025.pdf)
 
 ## Citation
 If you find this work useful, please cite our paper:
